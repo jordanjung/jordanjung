@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, I’m Jordan 👋
+
+I’m a former front-end engineer turned product designer. When I'm not buried in pixels, you can find me eating my way through Atlanta and collecting the rarest and ugliest sneakers known to man.
+
+## Find me around the web 🌎:
+- Checkout my design work at <a href="https://jordanjung.com">jordanjung.com</a>
+- Retweeting NBA memes on <a href="https://twitter.com/jordanjung">twitter</a>
 
 <!--
 **jordanjung/jordanjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
