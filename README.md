@@ -6,7 +6,7 @@ Prior to AKQA, I was a contractor at Unfold where I designed digital products fo
 
 Aside from my work, I enjoy traveling — both domestic and international. When I'm not traveling, you can find me trying out new restaurants in Atlanta, knocking down pins at my local bowling alley, and curating my ever-growing sneaker collection.
 
-## Find me around the web 🌎:
+## Find me around the web:
 - 🎨 <a href="https://jordanjung.com">Portfolio</a>
 - 🐦 <a href="https://twitter.com/jordanjung">Twitter</a>
 - 📸 <a href="https://instagram.com/jordanjung">Instagram</a>
@@ -14,6 +14,7 @@ Aside from my work, I enjoy traveling — both domestic and international. When 
 - 🖌️ <a href="https://figma.com/@jordanjung">Figma</a>
 - 🏀 <a href="https://dribbble.com/jordanjung">Dribbble</a>
 - 🏙️ <a href="https://vsco.co/jordanjung">VSCO</a>
+- 📄 <a href="https://read.cv/jordanjung">Read.cv</a>
 
 <!--
 **jordanjung/jordanjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
