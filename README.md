@@ -6,7 +6,7 @@ Prior to AKQA, I was a contractor at Unfold where I designed digital products fo
 
 Aside from my work, I enjoy traveling — both domestic and international. When I'm not traveling, you can find me trying out new restaurants in Atlanta, knocking down pins at my local bowling alley, and curating my ever-growing sneaker collection.
 
-## Find me around the web:
+##### FIND ME AROUND THE WEB
 - 🎨 <a href="https://jordanjung.com">Portfolio</a>
 - 🐦 <a href="https://twitter.com/jordanjung">Twitter</a>
 - 📸 <a href="https://instagram.com/jordanjung">Instagram</a>
